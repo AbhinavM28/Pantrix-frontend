@@ -1,0 +1,1 @@
+This is the frontend UI / UX development of the pantry emptying meal preparing application Pantrix!
